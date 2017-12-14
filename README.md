@@ -1,5 +1,11 @@
 # Completed Katas
 
+**Proper Parenthetics**
+
+- **Module**: `parenthetics.py`
+- **Tests**: `test_parenthetics.py`
+- **URL**: [challenge url](https://codefellows.github.io/sea-python-401d6/assignments/proper_parenthetics.html)
+
 **Rot13 (5th kyu)**
 
 - **Module**: `rot_13.py`
