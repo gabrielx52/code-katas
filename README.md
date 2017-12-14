@@ -1,4 +1,4 @@
-# Day of Code - Completed Katas
+# Completed Katas
 
 **Rot13 (5th kyu)**
 
@@ -23,3 +23,9 @@
 - **Module**: `first_non_repeating_number.py`
 - **Tests**: `test_first_non_repeating_number.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
+
+**Sum of the first nth term of Series (7th kyu)**
+
+- **Module**: `series_sum.py`
+- **Tests**: `test_series_sum.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/555eded1ad94b00403000071)
